@@ -1,2 +1,1 @@
-# Generating_PDF_FILE
-How to generated pdf file in python
+GENERATE PDF FROM HTML TO PDF THROUGH PYTHON
